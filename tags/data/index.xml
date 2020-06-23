@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Kush Adhvaryu</title>
+    <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data/</link>
+    <description>Recent content in Data on Kush Adhvaryu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Relocating for a job as a Developer</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-1/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-1/</guid>
+      <description>For this project, I was interested in using Stack Overflow data from 2017 to better understand:
+ As a budding developer, should you relocate for a job in the West (e.g. America, Europe, etc.)? Are developers really paid more in the West than they are in the East? Are the developers really satisfied with their jobs and career in the West? Should the developers need to develop new skills to get a job in either the West or the East?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kush Adhvaryu</title>
+    <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/</link>
+    <description>Recent content in Tags on Kush Adhvaryu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Scientist</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data-scientist/</link>
+      <pubDate>Fri, 19 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data-scientist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/machine-learning/</link>
+      <pubDate>Fri, 19 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starbucks</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/starbucks/</link>
+      <pubDate>Fri, 19 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/starbucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/blog/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data-science/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
