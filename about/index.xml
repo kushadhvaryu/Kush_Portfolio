@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Kush Adhvaryu</title>
-    <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/about/</link>
+    <link>https://kushadhvaryu.github.io/Kush_Portfolio/about/</link>
     <description>Recent content in About on Kush Adhvaryu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kushadhvaryu.github.io/Kush_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

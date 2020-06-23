@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kush Adhvaryu</title>
-    <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/</link>
+    <link>https://kushadhvaryu.github.io/Kush_Portfolio/post/</link>
     <description>Recent content in Projects on Kush Adhvaryu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kushadhvaryu.github.io/Kush_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 4: Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers</title>
-      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-4/</link>
+      <link>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-4/</link>
       <pubDate>Fri, 19 Jun 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-4/</guid>
+      <guid>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-4/</guid>
       <description>This project was the Capstone project of my Data Scientist Nanodegree with Udacity. As a student in the nanodegree programme, I had the option to take part in the Starbucks Capstone Challenge. For the challenge, Udacity provided simulated data that mimicked customer behavior on the Starbucks rewards mobile app.
 In this project, I used the data to answer two business questions:
  What were the main drivers of an effective offer on the Starbucks app?</description>
@@ -24,20 +24,20 @@ In this project, I used the data to answer two business questions:
     
     <item>
       <title>Project 3: Recommendations with IBM Watson</title>
-      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-3/</link>
+      <link>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-3/</link>
       <pubDate>Thu, 18 Jun 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-3/</guid>
+      <guid>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-3/</guid>
       <description>This project was done as a part of the Udacity Data Scientist Nanodegree. It involved Rank based filtering, Collaborative filtering, and SVD models for recommendations.
 It helps to provide recommendations to IBM Watson users on the next articles the users can read on their platform. I analyzed the interactions that users had with articles on the IBM Watson Studio platform, and made recommendations to them about new articles I think they would like.</description>
     </item>
     
     <item>
       <title>Project 2: Disaster Response Pipelines</title>
-      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-2/</link>
+      <link>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-2/</link>
       <pubDate>Wed, 17 Jun 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-2/</guid>
+      <guid>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-2/</guid>
       <description>This Project was a part of Data Scientist Nanodegree Program by Udacity in collaboration with Figure Eight. The initial dataset contained pre-labelled tweets and messages from real-life disasters. The aim of this project was to build a Natural Language Processing tool that can categorize tweets and messages.
 The Project was divided in the following Sections:
  Data Processing and ETL Pipeline to extract data from source, clean data and save them in a proper databse structure.</description>
@@ -45,10 +45,10 @@ The Project was divided in the following Sections:
     
     <item>
       <title>Project 1: Relocating for a job as a Developer</title>
-      <link>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-1/</link>
+      <link>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-1/</link>
       <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://kushadhvaryu.github.io/Kush_Adhvaryu_Portfolio_2/post/project-1/</guid>
+      <guid>https://kushadhvaryu.github.io/Kush_Portfolio/post/project-1/</guid>
       <description>For this project, I was interested in using Stack Overflow data from 2017 to better understand:
  As a budding developer, should you relocate for a job in the West (e.g. America, Europe, etc.)? Are developers really paid more in the West than they are in the East? Are the developers really satisfied with their jobs and career in the West? Should the developers need to develop new skills to get a job in either the West or the East?</description>
     </item>
